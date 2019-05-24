@@ -27,19 +27,19 @@ Dataset Description
 Requirements
 
 Make sure you have all the dependencies installed
-•python 3.6+ 
-•numpy 
-•gensim 
-•pandas 
-•matplotlib 
-•scikitplot 
-•sklearn 
-•nltk 
-	•For nltk, openPython interpretor in CMD.
-		 •Then, enter
-		 	•>>> import nltk 
-		 	•>>> nltk.download() 
+*python 3.6+ 
+*numpy 
+*gensim 
+*pandas 
+*matplotlib 
+*scikitplot 
+*sklearn 
+*nltk 
+	*For nltk, openPython interpretor in CMD.
+		 *Then, enter
+		 	*>>> import nltk 
+		 	*>>> nltk.download() 
 
 
-You're good to go now
-	> python main.py
+You're good to go now - 
+	python main.py
